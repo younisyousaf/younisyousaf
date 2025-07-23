@@ -3,7 +3,7 @@
 **Full-Stack Web & Mobile Developer**  
 📍 Mansehra, KPK, Pakistan  
 📧 [younisyousaf04@gmail.com](mailto:younisyousaf04@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/younis-yousaf)
+🔗 [[LinkedIn](https://linkedin.com/in/younis-yousaf](https://www.linkedin.com/in/younis-yousaf-9909b4205/))
 
 ---
 
@@ -93,7 +93,7 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
 ## 🤝 Let's Connect
 
 - 📬 [Email](mailto:younisyousaf04@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/younis-yousaf)
+- 💼 [LinkedIn]([https://linkedin.com/in/younis-yousaf](https://www.linkedin.com/in/younis-yousaf-9909b4205/))
 
 ---
 
