@@ -93,7 +93,7 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
 ## 🤝 Let's Connect
 
 - 📬 [Email](mailto:younisyousaf04@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/younis-yousaf](https://www.linkedin.com/in/younis-yousaf-9909b4205/))
+- 💼 [[LinkedIn](https://linkedin.com/in/younis-yousaf](https://www.linkedin.com/in/younis-yousaf-9909b4205/))]
 
 ---
 
