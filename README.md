@@ -102,11 +102,12 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
   <img src="https://github-profile-trophy.vercel.app/?username=younisyousaf&theme=radical&column=7" />
 </p>
 
-## 🔥 Contribution Streak
+## 🧩 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=younisyousaf&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younisyousaf&theme=radical" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect
