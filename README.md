@@ -102,11 +102,12 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
   <img src="https://github-profile-trophy.vercel.app/?username=younisyousaf&theme=radical&column=7" />
 </p>
 
-## 📅 GitHub Contribution Calendar
+## 🌆 3D GitHub Skyline
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/younisyousaf" alt="Younis Yousaf's Github chart" />
+  <img src="https://user-images.githubusercontent.com/your-screenshot-url" alt="GitHub Skyline" />
 </p>
+
 
 ---
 
