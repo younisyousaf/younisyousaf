@@ -89,6 +89,9 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
 ## :handshake: Let's Connect
 
 <p align="left">
+<a href="https://github.com/younisyousaf" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="younisyousaf" height="30" width="40" />
+</a>
 <a href="https://dev.to/younis_yousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="younis_yousaf" height="30" width="40" /></a>
 <a href="https://twitter.com/yykhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yykhan001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/younis-yousaf-9909b4205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younis-yousaf-9909b4205/" height="30" width="40" /></a>
