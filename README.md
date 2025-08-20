@@ -1,9 +1,12 @@
-# :male-technologist: Younis Yousaf
+# Younis Yousaf
 
 **Full-Stack Web & Mobile Developer**  
 :round_pushpin: Mansehra, KPK, Pakistan  
-:e-mail: [younisyousaf04@gmail.com](mailto:younisyousaf04@gmail.com)  
-:link: [[LinkedIn](https://linkedin.com/in/younis-yousaf](https://www.linkedin.com/in/younis-yousaf-9909b4205/))]
+:link: E-mail: <a href="mailto:younisyousaf04@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="younisyousaf04@gmail.com" height="30" width="40" />
+</a>
+  
+:link: LinkedIn: <a href="https://linkedin.com/in/younis-yousaf-9909b4205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younis-yousaf-9909b4205/" height="30" width="40" /></a>
 
 ---
 
