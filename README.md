@@ -1,10 +1,6 @@
 # Younis Yousaf
 
 **Full-Stack Web & Mobile Developer** 
-  
-:link: LinkedIn: <a href="https://linkedin.com/in/younis-yousaf-9909b4205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younis-yousaf-9909b4205/" height="30" width="40" /></a>
-
----
 
 :dart: **About Me**  
 Motivated and detail-oriented Software Engineer with 2+ years of hands-on experience in full-stack web and cross-platform mobile application development. I specialize in building performant, maintainable, and scalable applications with a focus on clean architecture and modern development practices.
@@ -93,7 +89,6 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
 </a>
 <a href="mailto:younisyousaf04@gmail.com" target="blank">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" height="30" width="40" fill="white">
-    <title>Gmail</title>
     <path d="M24 4.5v15a2.5 2.5 0 0 1-2.5 2.5H2.5A2.5 2.5 0 0 1 0 19.5v-15A2.5 2.5 0 0 1 2.5 2h19A2.5 2.5 0 0 1 24 4.5zm-6.797 3.276L12 12.555 6.797 7.776H3.428l8.572 7.857 8.572-7.857h-3.369z"/>
   </svg>
 </a>
