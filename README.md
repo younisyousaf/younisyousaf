@@ -86,12 +86,10 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
 <p align="left">
 <a href="https://github.com/younisyousaf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="younisyousaf" height="30" width="40" />
+</a><a href="mailto:younisyousaf04@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="younisyousaf04@gmail.com" height="30" width="40" />
 </a>
-<a href="mailto:younisyousaf04@gmail.com" target="blank">
-  <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" height="30" width="40" fill="white">
-    <path d="M24 4.5v15a2.5 2.5 0 0 1-2.5 2.5H2.5A2.5 2.5 0 0 1 0 19.5v-15A2.5 2.5 0 0 1 2.5 2h19A2.5 2.5 0 0 1 24 4.5zm-6.797 3.276L12 12.555 6.797 7.776H3.428l8.572 7.857 8.572-7.857h-3.369z"/>
-  </svg>
-</a>
+
 <a href="https://dev.to/younis_yousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="younis_yousaf" height="30" width="40" /></a>
 <a href="https://twitter.com/yykhan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yykhan001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/younis-yousaf-9909b4205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younis-yousaf-9909b4205/" height="30" width="40" /></a>
