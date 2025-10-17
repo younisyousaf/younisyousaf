@@ -50,37 +50,6 @@ Motivated and detail-oriented Software Engineer with 2+ years of hands-on experi
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
 
-
-## :chart_with_upwards_trend: GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younisyousaf&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younisyousaf&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=younisyousaf&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younisyousaf&theme=radical" />
-</p>
-
-## :trophy: GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=younisyousaf&theme=radical&column=7" />
-</p>
-
-## :date: GitHub Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/younisyousaf" alt="Younis Yousaf's Github chart" />
-</p>
-
-
----
-
 ## :handshake: Let's Connect
 
 <p align="left">
